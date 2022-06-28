@@ -82,7 +82,6 @@ export default {
   },
   methods: {
     toggleMobileNav() {
-      console.log(1)
       this.mobileNav = !this.mobileNav;
     },
     checkScreen () {
